@@ -1,4 +1,15 @@
-`DDL` (Data Definition Language)
+# DDL (Data Definition Language)
+
+CARD|테이블,컬럼
+-|-
+CREATE|테이블 생성
+ALTER|수정
+RENAME|테이블명 변경
+DROP|테이블 삭제
+TRUNCATE|테이블 초기화
+
+
+
 - CREATE, ALTER, RENAME, DROP
 - 테이블 구조를 생성, 변경, 삭제하는 등 데이터 구조를 정의
 - 스키마, 도메인, 테이블, 뷰, 인덱스를 정의, 변경, 삭제할 때 사용
